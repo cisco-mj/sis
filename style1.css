@@ -280,13 +280,16 @@ input[type="submit"]:active
     color: #f05323;
 }
 
-@media(max-width: 400px){
+@media(max-width: 412px){
     .box{
-        width: 330px;
+        width: 340px;
         
     }
     #bg{
         height: 100vh;
+    }
+    .logo{
+        left: -10;
     }
     .logo .img{
         height: 33px;

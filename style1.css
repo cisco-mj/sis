@@ -282,7 +282,7 @@ input[type="submit"]:active
 
 @media(max-width: 412px){
     .box{
-        width: 340px;
+        width: 315px;
         
     }
     #bg{
@@ -292,7 +292,7 @@ input[type="submit"]:active
         left: -10;
     }
     .logo .img{
-        height: 33px;
+        height: 31px;
     }
     .box::before{
         width: 330px;

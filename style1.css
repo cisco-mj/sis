@@ -282,7 +282,7 @@ input[type="submit"]:active
 
 @media(max-width: 400px){
     .box{
-        width: 80vw;
+        width: 60vw;
         
     }
     #bg{

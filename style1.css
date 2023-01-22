@@ -282,7 +282,7 @@ input[type="submit"]:active
 
 @media(max-width: 400px){
     .box{
-        width: 340px;
+        width: 330px;
         
     }
     #bg{
@@ -292,10 +292,10 @@ input[type="submit"]:active
         height: 33px;
     }
     .box::before{
-        width: 340px;
+        width: 330px;
     }
     .box::after{
-        width: 340px;
+        width: 330px;
     }
     .inputBox{
         width: 100%;
